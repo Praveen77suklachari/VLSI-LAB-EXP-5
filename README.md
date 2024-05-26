@@ -117,7 +117,8 @@ endmodule
 ![](https://github.com/Praveen77suklachari/VLSI-LAB-EXP-5/assets/124765056/2f452d32-bf0b-49af-9dc3-dd1b2b64f241)
 
 
-RESULT:
+# RESULT:
+THUS the finite state machine is simulated using VIVADO 2023.1 and the output is verified successfully.
 
 
 
